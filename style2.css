@@ -219,7 +219,9 @@ p{
 }
 
 #picOne {
-  background-image: url(img/cover.png);
+  background-image: url(img/glamcover2.png);
+ 
+background-size: 100%;
   min-height: 100%;
   padding-bottom: 15rem;
   padding-top: 15rem;
@@ -232,7 +234,7 @@ p{
 }
 
 #picTwo {
-  background-image: url(img/shadow.jpg);
+  background-image: url(img/colors.png);
   min-height: 100%;
   padding-bottom: 15rem;
   padding-top: 15rem;
@@ -246,8 +248,9 @@ p{
   padding: 3rem;
 }
 
-#picThree {
-  background-image: url(img/side.jpg);
+#picThree { 
+  background-image: url(img/natural.png);
+ 
   padding-top: 15rem;
   padding-bottom: 15rem;
 }
